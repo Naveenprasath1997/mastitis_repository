@@ -1,0 +1,12 @@
+annotated proteins
+39417 blastpOut1.abundance
+annotated proteins above threshold
+25577 blastpOut1.abundance.abovePidentQcovsThreshold
+bacterial proteins
+603 OUT.BACTAXID
+fungal proteins
+58 OUT.FUNGTAXID
+bovine proteins
+9425 OUT.BOVTAXID
+human proteins
+388 OUT.HOMOTAXID

@@ -1,0 +1,208 @@
+From	Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length	Gene Ontology IDs	Gene Ontology (molecular function)	Gene Ontology (GO)	Gene Ontology (biological process)	Gene Ontology (cellular component)
+A0A2T4CLQ3	A0A2T4CLQ3	unreviewed	A0A2T4CLQ3_9GAMM	Uncharacterized protein	C9986_02800	Pseudidiomarina aestuarii	115					
+A0A317BW49	A0A317BW49		A0A317BW49_STEMA	deleted								
+A0A2B1QA11	A0A2B1QA11		A0A2B1QA11_9BACI	deleted								
+A0A3N9PIG3	A0A3N9PIG3		A0A3N9PIG3_9RHOB	deleted								
+A0A2E3K791	A0A2E3K791	unreviewed	A0A2E3K791_9PROT	Succinate--CoA ligase [ADP-forming] subunit alpha (EC 6.2.1.5) (Succinyl-CoA synthetase subunit alpha) (SCS-alpha)	sucD CMM44_07100	Rhodospirillaceae bacterium	291	GO:0000166; GO:0004775; GO:0004776; GO:0006099; GO:0009361	nucleotide binding [GO:0000166]; succinate-CoA ligase (ADP-forming) activity [GO:0004775]; succinate-CoA ligase (GDP-forming) activity [GO:0004776]	succinate-CoA ligase complex (ADP-forming) [GO:0009361]; nucleotide binding [GO:0000166]; succinate-CoA ligase (ADP-forming) activity [GO:0004775]; succinate-CoA ligase (GDP-forming) activity [GO:0004776]; tricarboxylic acid cycle [GO:0006099]	tricarboxylic acid cycle [GO:0006099]	succinate-CoA ligase complex (ADP-forming) [GO:0009361]
+A0A1E4W1H5	A0A1E4W1H5		A0A1E4W1H5_9PSED	deleted								
+A0A0U0WWF1	A0A0U0WWF1		A0A0U0WWF1_CHLTH	deleted								
+A0A1X6RM79	A0A1X6RM79		A0A1X6RM79_CHLAO	deleted								
+A0A0Q3Q4L3	A0A0Q3Q4L3	unreviewed	A0A0Q3Q4L3_9BACI	Uncharacterized protein	AN959_20480	Psychrobacillus sp. FJAT-21963	166					
+A0A4S1M2S6	A0A4S1M2S6	unreviewed	A0A4S1M2S6_UNCXX	Reverse transcriptase domain-containing protein	EIL50_05430	bacterium NHP-B	104					
+C2E5F2	C2E5F2	unreviewed	C2E5F2_LACJH	Enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (2-phosphoglycerate dehydratase)	eno HMPREF0528_0976	Lactobacillus johnsonii ATCC 33200	432	GO:0000015; GO:0000287; GO:0004634; GO:0005576; GO:0006096; GO:0009986	magnesium ion binding [GO:0000287]; phosphopyruvate hydratase activity [GO:0004634]	cell surface [GO:0009986]; extracellular region [GO:0005576]; phosphopyruvate hydratase complex [GO:0000015]; magnesium ion binding [GO:0000287]; phosphopyruvate hydratase activity [GO:0004634]; glycolytic process [GO:0006096]	glycolytic process [GO:0006096]	cell surface [GO:0009986]; extracellular region [GO:0005576]; phosphopyruvate hydratase complex [GO:0000015]
+A0A1H1UZY5	A0A1H1UZY5	unreviewed	A0A1H1UZY5_9PSED	Uncharacterized protein	SAMN05216222_2259	Pseudomonas prosekii	341					
+A0A1H1L1B3	A0A1H1L1B3		A0A1H1L1B3_9PSED	deleted								
+A0A1X6RMA8	A0A1X6RMA8		A0A1X6RMA8_CHLAO	deleted								
+A0A109L276	A0A109L276	unreviewed	A0A109L276_PSEFL	Flagellar hook protein FlgE	flgE C7A10_28680 PFLmoz3_05679	Pseudomonas fluorescens	438	GO:0005829; GO:0009424; GO:0009425; GO:0071978		bacterial-type flagellum basal body [GO:0009425]; bacterial-type flagellum hook [GO:0009424]; cytosol [GO:0005829]; bacterial-type flagellum-dependent swarming motility [GO:0071978]	bacterial-type flagellum-dependent swarming motility [GO:0071978]	bacterial-type flagellum basal body [GO:0009425]; bacterial-type flagellum hook [GO:0009424]; cytosol [GO:0005829]
+A0A3B8KED1	A0A3B8KED1		A0A3B8KED1_PSESP	deleted								
+A0A4V2GKG8	A0A4V2GKG8		A0A4V2GKG8_9GAMM	deleted								
+W2DZT9	W2DZT9	unreviewed	W2DZT9_9PSED	Heavy metal efflux pump CzcA	H096_05557	Pseudomonas sp. FH1	1047	GO:0005886; GO:0008324; GO:0042910	monoatomic cation transmembrane transporter activity [GO:0008324]; xenobiotic transmembrane transporter activity [GO:0042910]	plasma membrane [GO:0005886]; monoatomic cation transmembrane transporter activity [GO:0008324]; xenobiotic transmembrane transporter activity [GO:0042910]		plasma membrane [GO:0005886]
+A0A3E1HZX6	A0A3E1HZX6	unreviewed	A0A3E1HZX6_9PSED	Carbon-nitrogen hydrolase family protein	CER19_06235	Pseudomonas sp. GL93	376	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides [GO:0016811]	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides [GO:0016811]		
+A0A0C5KTH4	A0A0C5KTH4	unreviewed	A0A0C5KTH4_LACHE	Chaperone protein	dnaK	Lactobacillus helveticus (Lactobacillus suntoryeus)	162	GO:0005524; GO:0140662	ATP binding [GO:0005524]; ATP-dependent protein folding chaperone [GO:0140662]	ATP binding [GO:0005524]; ATP-dependent protein folding chaperone [GO:0140662]		
+A0A377DZN7	A0A377DZN7	unreviewed	A0A377DZN7_ECOLX	Aspartate ammonia-lyase (EC 4.3.1.1)	aspA_1 NCTC8500_05099	Escherichia coli	161	GO:0005829; GO:0006531; GO:0008797	aspartate ammonia-lyase activity [GO:0008797]	cytosol [GO:0005829]; aspartate ammonia-lyase activity [GO:0008797]; aspartate metabolic process [GO:0006531]	aspartate metabolic process [GO:0006531]	cytosol [GO:0005829]
+A0A2S9ESC3	A0A2S9ESC3	unreviewed	A0A2S9ESC3_9PSED	Twitching motility protein PilT	CQZ99_13210	Pseudomonas poae	315	GO:0005524; GO:0016887	ATP binding [GO:0005524]; ATP hydrolysis activity [GO:0016887]	ATP binding [GO:0005524]; ATP hydrolysis activity [GO:0016887]		
+A0A2T4RNY1	A0A2T4RNY1		A0A2T4RNY1_MAMSC	deleted								
+A0A3M3BJW2	A0A3M3BJW2		A0A3M3BJW2_PSESX	deleted								
+A0A377BSB0	A0A377BSB0	unreviewed	A0A377BSB0_ECOLX	Tryptophanase (EC 4.1.99.1)	tnaA_1 NCTC10429_00503	Escherichia coli	369	GO:0009034	tryptophanase activity [GO:0009034]	tryptophanase activity [GO:0009034]		
+C2E6V9	C2E6V9	unreviewed	C2E6V9_LACJH	Enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (2-phosphoglycerate dehydratase)	eno HMPREF0528_1483	Lactobacillus johnsonii ATCC 33200	428	GO:0000015; GO:0000287; GO:0004634; GO:0005576; GO:0006096; GO:0009986	magnesium ion binding [GO:0000287]; phosphopyruvate hydratase activity [GO:0004634]	cell surface [GO:0009986]; extracellular region [GO:0005576]; phosphopyruvate hydratase complex [GO:0000015]; magnesium ion binding [GO:0000287]; phosphopyruvate hydratase activity [GO:0004634]; glycolytic process [GO:0006096]	glycolytic process [GO:0006096]	cell surface [GO:0009986]; extracellular region [GO:0005576]; phosphopyruvate hydratase complex [GO:0000015]
+F4T4M6	F4T4M6	unreviewed	F4T4M6_ECOLX	Uncharacterized protein	ECIG_02583	Escherichia coli M605	291					
+A0A0J6C2L2	A0A0J6C2L2	unreviewed	A0A0J6C2L2_9BACT	Uncharacterized protein	ACM15_27395	Parabacteroides goldsteinii	116					
+A0A4U3GLC0	A0A4U3GLC0		A0A4U3GLC0_PSEFL	deleted								
+A0A145XMY9	A0A145XMY9		A0A145XMY9_9PSED	deleted								
+A0A3M3JXJ0	A0A3M3JXJ0		A0A3M3JXJ0_PSESG	deleted								
+A0A5F1G5Z0	A0A5F1G5Z0		A0A5F1G5Z0_9ESCH	deleted								
+A0A109LBU6	A0A109LBU6	unreviewed	A0A109LBU6_PSEFL	Aminodeoxychorismate lyase (EC 4.1.3.38)	pabC PFLmoz3_05738	Pseudomonas fluorescens	137	GO:0005829; GO:0008153; GO:0008696	4-amino-4-deoxychorismate lyase activity [GO:0008696]	cytosol [GO:0005829]; 4-amino-4-deoxychorismate lyase activity [GO:0008696]; 4-aminobenzoate biosynthetic process [GO:0008153]	4-aminobenzoate biosynthetic process [GO:0008153]	cytosol [GO:0005829]
+A0A2M8IT47	A0A2M8IT47	unreviewed	A0A2M8IT47_9RHOB	Elongation factor 1-alpha	tuf CVM52_26060	Pseudooceanicola lipolyticus	303	GO:0003746; GO:0005525	GTP binding [GO:0005525]; translation elongation factor activity [GO:0003746]	GTP binding [GO:0005525]; translation elongation factor activity [GO:0003746]		
+A0A3M4HEF1	A0A3M4HEF1		A0A3M4HEF1_PSEFL	deleted								
+A0A4T9W7G1	A0A4T9W7G1		A0A4T9W7G1_9FIRM	deleted								
+A0A1L8ZGS9	A0A1L8ZGS9		A0A1L8ZGS9_9BACI	deleted								
+C2E5T6	C2E5T6	unreviewed	C2E5T6_LACJH	ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit) (F-ATPase epsilon subunit)	atpC HMPREF0528_1061	Lactobacillus johnsonii ATCC 33200	146	GO:0005524; GO:0005886; GO:0016787; GO:0045261; GO:0046933	ATP binding [GO:0005524]; hydrolase activity [GO:0016787]; proton-transporting ATP synthase activity, rotational mechanism [GO:0046933]	plasma membrane [GO:0005886]; proton-transporting ATP synthase complex, catalytic core F(1) [GO:0045261]; ATP binding [GO:0005524]; hydrolase activity [GO:0016787]; proton-transporting ATP synthase activity, rotational mechanism [GO:0046933]		plasma membrane [GO:0005886]; proton-transporting ATP synthase complex, catalytic core F(1) [GO:0045261]
+A0A4Y7X997	A0A4Y7X997		A0A4Y7X997_9BACT	deleted								
+A0A3N7BDG9	A0A3N7BDG9	unreviewed	A0A3N7BDG9_9PSED	DNA ligase (ATP) (EC 6.5.1.1) (NHEJ DNA polymerase)	DBR46_24245	Pseudomonas sp. KBW05	1142	GO:0003677; GO:0003887; GO:0003910; GO:0004519; GO:0005524; GO:0006281; GO:0006310; GO:0008311; GO:0046872	ATP binding [GO:0005524]; DNA binding [GO:0003677]; DNA ligase (ATP) activity [GO:0003910]; DNA-directed DNA polymerase activity [GO:0003887]; double-stranded DNA 3'-5' DNA exonuclease activity [GO:0008311]; endonuclease activity [GO:0004519]; metal ion binding [GO:0046872]	ATP binding [GO:0005524]; DNA binding [GO:0003677]; DNA ligase (ATP) activity [GO:0003910]; DNA-directed DNA polymerase activity [GO:0003887]; double-stranded DNA 3'-5' DNA exonuclease activity [GO:0008311]; endonuclease activity [GO:0004519]; metal ion binding [GO:0046872]; DNA recombination [GO:0006310]; DNA repair [GO:0006281]	DNA recombination [GO:0006310]; DNA repair [GO:0006281]	
+I4KEJ6	I4KEJ6	unreviewed	I4KEJ6_9PSED	Ethanolamine permease	eat_2 PflSS101_1681	Pseudomonas lactis	454	GO:0005886; GO:0022857	transmembrane transporter activity [GO:0022857]	plasma membrane [GO:0005886]; transmembrane transporter activity [GO:0022857]		plasma membrane [GO:0005886]
+A0A443ZRF3	A0A443ZRF3	unreviewed	A0A443ZRF3_9PSED	CoA ester lyase	DM813_19405	Pseudomonas alkylphenolica	269	GO:0000287; GO:0006107; GO:0016829	lyase activity [GO:0016829]; magnesium ion binding [GO:0000287]	lyase activity [GO:0016829]; magnesium ion binding [GO:0000287]; oxaloacetate metabolic process [GO:0006107]	oxaloacetate metabolic process [GO:0006107]	
+A0A109KW72	A0A109KW72	unreviewed	A0A109KW72_PSEFL	Integrating conjugative element protein	C7A10_23755 PFLmoz3_06118	Pseudomonas fluorescens	453					
+A0A244CCQ0	A0A244CCQ0		A0A244CCQ0_LACJH	deleted								
+A0A0R2D827	A0A0R2D827		A0A0R2D827_9LACO	deleted								
+A0A377C753	A0A377C753	unreviewed	A0A377C753_ECOLX	CP4-57 prophage protein	yfjK_2 NCTC10429_01965	Escherichia coli	467	GO:0004386; GO:0005524; GO:0016787	ATP binding [GO:0005524]; helicase activity [GO:0004386]; hydrolase activity [GO:0016787]	ATP binding [GO:0005524]; helicase activity [GO:0004386]; hydrolase activity [GO:0016787]		
+D0R328	D0R328	unreviewed	D0R328_LACJF	Dipeptidase (EC 3.4.-.-)	FI9785_613	Lactobacillus johnsonii (strain FI9785)	377	GO:0006508; GO:0016805; GO:0070004	cysteine-type exopeptidase activity [GO:0070004]; dipeptidase activity [GO:0016805]	cysteine-type exopeptidase activity [GO:0070004]; dipeptidase activity [GO:0016805]; proteolysis [GO:0006508]	proteolysis [GO:0006508]	
+C2QLG8	C2QLG8		C2QLG8_BACCE	deleted								
+A0A120FZ32	A0A120FZ32	unreviewed	A0A120FZ32_PSEFL	Chain-length determining protein	PFL603g_02938	Pseudomonas fluorescens	425	GO:0004713; GO:0005886	protein tyrosine kinase activity [GO:0004713]	plasma membrane [GO:0005886]; protein tyrosine kinase activity [GO:0004713]		plasma membrane [GO:0005886]
+A0A0R3ABF4	A0A0R3ABF4	unreviewed	A0A0R3ABF4_9PSED	Membrane protein	TX23_20415	Pseudomonas paralactis	134	GO:0016020		membrane [GO:0016020]		membrane [GO:0016020]
+A0A1X6RM58	A0A1X6RM58		A0A1X6RM58_CHLAO	deleted								
+A0A0D1JEX3	A0A0D1JEX3	unreviewed	A0A0D1JEX3_BACIU	L-lactate permease	SC09_Contig25orf00894	Bacillus subtilis	327	GO:0005886; GO:0015129; GO:0015295	lactate transmembrane transporter activity [GO:0015129]; solute:proton symporter activity [GO:0015295]	plasma membrane [GO:0005886]; lactate transmembrane transporter activity [GO:0015129]; solute:proton symporter activity [GO:0015295]		plasma membrane [GO:0005886]
+A0A2X1KQ12	A0A2X1KQ12	unreviewed	A0A2X1KQ12_ECOLX	Bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase (EC 2.1.2.3)	purH_4 NCTC11126_05502	Escherichia coli	188	GO:0003937; GO:0004643; GO:0005829; GO:0006189	IMP cyclohydrolase activity [GO:0003937]; phosphoribosylaminoimidazolecarboxamide formyltransferase activity [GO:0004643]	cytosol [GO:0005829]; IMP cyclohydrolase activity [GO:0003937]; phosphoribosylaminoimidazolecarboxamide formyltransferase activity [GO:0004643]; 'de novo' IMP biosynthetic process [GO:0006189]	'de novo' IMP biosynthetic process [GO:0006189]	cytosol [GO:0005829]
+W4TNR0	W4TNR0		W4TNR0_CUTAC	deleted								
+A0A2U2P1S5	A0A2U2P1S5		A0A2U2P1S5_ENTHR	deleted								
+A0A2T4E215	A0A2T4E215		A0A2T4E215_9PROT	deleted								
+A0A181ZYN8	A0A181ZYN8		A0A181ZYN8_ANAPH	deleted								
+A0A0D1INR5	A0A0D1INR5	unreviewed	A0A0D1INR5_BACIU	histidine kinase (EC 2.7.13.3)	SC09_Contig25orf00818	Bacillus subtilis	337	GO:0000155; GO:0005886	phosphorelay sensor kinase activity [GO:0000155]	plasma membrane [GO:0005886]; phosphorelay sensor kinase activity [GO:0000155]		plasma membrane [GO:0005886]
+A0A1E5NAB0	A0A1E5NAB0	unreviewed	A0A1E5NAB0_9SPIR	Uncharacterized protein	BFL38_00610	Brachyspira hampsonii	67					
+W0P1P1	W0P1P1	unreviewed	W0P1P1_9BACI	Nonribosomal peptide synthetase	NRPS	Bacillus sp. C53	240	GO:0005829; GO:0031177; GO:0043041; GO:0044550	phosphopantetheine binding [GO:0031177]	cytosol [GO:0005829]; phosphopantetheine binding [GO:0031177]; amino acid activation for nonribosomal peptide biosynthetic process [GO:0043041]; secondary metabolite biosynthetic process [GO:0044550]	amino acid activation for nonribosomal peptide biosynthetic process [GO:0043041]; secondary metabolite biosynthetic process [GO:0044550]	cytosol [GO:0005829]
+A0A4Q0I088	A0A4Q0I088	unreviewed	A0A4Q0I088_PSEAZ	Uncharacterized protein	B4O85_00185	Pseudomonas azotoformans	118					
+A0A292D0A6	A0A292D0A6		A0A292D0A6_9PSED	deleted								
+A0A0W0QZM6	A0A0W0QZM6		A0A0W0QZM6_PSEFL	deleted								
+A0A4U9LDB7	A0A4U9LDB7		A0A4U9LDB7_ECOLX	deleted								
+A0A109KQP9	A0A109KQP9	unreviewed	A0A109KQP9_PSEFL	Glucosyl transferase GtrII family protein	PFL603g_03736	Pseudomonas fluorescens	480	GO:0016020		membrane [GO:0016020]		membrane [GO:0016020]
+A0A2R3H9R0	A0A2R3H9R0		A0A2R3H9R0_9PSED	deleted								
+A0A1B3PT84	A0A1B3PT84		A0A1B3PT84_LACJH	deleted								
+A0A0A0F566	A0A0A0F566	unreviewed	A0A0A0F566_9GAMM	Phosphate transport system permease protein	N799_03605	Lysobacter arseniciresistens ZS79	318	GO:0005315; GO:0005886; GO:0006817	phosphate transmembrane transporter activity [GO:0005315]	plasma membrane [GO:0005886]; phosphate transmembrane transporter activity [GO:0005315]; phosphate ion transport [GO:0006817]	phosphate ion transport [GO:0006817]	plasma membrane [GO:0005886]
+A0A3F3JG16	A0A3F3JG16		A0A3F3JG16_9PSED	deleted								
+A0A367N0Q3	A0A367N0Q3		A0A367N0Q3_9PSED	deleted								
+A0A367N0B0	A0A367N0B0		A0A367N0B0_9PSED	deleted								
+N6VUI3	N6VUI3		N6VUI3_9GAMM	deleted								
+A0A3M4QPE2	A0A3M4QPE2	unreviewed	A0A3M4QPE2_9PSED	Glycosyl hydrolase family 13 catalytic domain-containing protein	ALP97_04557	Pseudomonas salomonii	379					
+A0A3B8KE24	A0A3B8KE24		A0A3B8KE24_PSESP	deleted								
+A0A3M5D4Z1	A0A3M5D4Z1		A0A3M5D4Z1_PSEA0	deleted								
+A0A367MXT5	A0A367MXT5		A0A367MXT5_9PSED	deleted								
+A0A1Z1N5P3	A0A1Z1N5P3		A0A1Z1N5P3_LACJH	deleted								
+W4TN13	W4TN13		W4TN13_CUTAC	deleted								
+A0A143GPU9	A0A143GPU9		A0A143GPU9_9PSED	deleted								
+A0A0F0D951	A0A0F0D951		A0A0F0D951_9PSED	deleted								
+A0A509CEH1	A0A509CEH1		A0A509CEH1_9ENTR	deleted								
+A0A5E7I7H5	A0A5E7I7H5		A0A5E7I7H5_PSEFL	deleted								
+A0A3D4SPY1	A0A3D4SPY1		A0A3D4SPY1_PSESP	deleted								
+A0A292D1R1	A0A292D1R1		A0A292D1R1_9PSED	deleted								
+A0A4Z0AXI2	A0A4Z0AXI2	unreviewed	A0A4Z0AXI2_9PSED	Metal-binding protein	DYL59_06650	Pseudomonas kairouanensis	273					
+A0A3G7UDI4	A0A3G7UDI4	unreviewed	A0A3G7UDI4_9PSED	Inner membrane protein YfiN	C4K03_5351	Pseudomonas synxantha	420	GO:0007165; GO:0016020		membrane [GO:0016020]; signal transduction [GO:0007165]	signal transduction [GO:0007165]	membrane [GO:0016020]
+A0A2B1JYT5	A0A2B1JYT5	unreviewed	A0A2B1JYT5_BACCE	Endonuclease	COJ50_26595	Bacillus cereus	174	GO:0004519	endonuclease activity [GO:0004519]	endonuclease activity [GO:0004519]		
+A0A410QXS6	A0A410QXS6		A0A410QXS6_9BACI	deleted								
+A0A1X3K7C5	A0A1X3K7C5		A0A1X3K7C5_ECOLX	deleted								
+A0A4Q0HCV9	A0A4Q0HCV9	unreviewed	A0A4Q0HCV9_PSEAZ	Pilus assembly protein PilZ	B4O85_28415	Pseudomonas azotoformans	249	GO:0009288; GO:0035438	cyclic-di-GMP binding [GO:0035438]	bacterial-type flagellum [GO:0009288]; cyclic-di-GMP binding [GO:0035438]		bacterial-type flagellum [GO:0009288]
+A0A1E4WJJ6	A0A1E4WJJ6		A0A1E4WJJ6_9PSED	deleted								
+A0A354Y8W2	A0A354Y8W2	unreviewed	A0A354Y8W2_9GAMM	DNA topoisomerase (ATP-hydrolyzing) (EC 5.6.2.2)	DDZ67_04405	Lysobacteraceae bacterium	153	GO:0003677; GO:0005524; GO:0005694; GO:0006265; GO:0034335	ATP binding [GO:0005524]; DNA binding [GO:0003677]; DNA negative supercoiling activity [GO:0034335]	chromosome [GO:0005694]; ATP binding [GO:0005524]; DNA binding [GO:0003677]; DNA negative supercoiling activity [GO:0034335]; DNA topological change [GO:0006265]	DNA topological change [GO:0006265]	chromosome [GO:0005694]
+A0A5F1HID3	A0A5F1HID3		A0A5F1HID3_SALEN	deleted								
+A0A4Y9IEY6	A0A4Y9IEY6		A0A4Y9IEY6_LACJH	deleted								
+A0A377A1A6	A0A377A1A6	unreviewed	A0A377A1A6_ECOLX	Superoxide dismutase (EC 1.15.1.1)	sodB NCTC8179_03755	Escherichia coli	145	GO:0004784; GO:0046872	metal ion binding [GO:0046872]; superoxide dismutase activity [GO:0004784]	metal ion binding [GO:0046872]; superoxide dismutase activity [GO:0004784]		
+A0A3N7E612	A0A3N7E612	unreviewed	A0A3N7E612_9PSED	Phosphotransferase	DBR46_24460	Pseudomonas sp. KBW05	988	GO:0005524; GO:0016740; GO:0016887	ATP binding [GO:0005524]; ATP hydrolysis activity [GO:0016887]; transferase activity [GO:0016740]	ATP binding [GO:0005524]; ATP hydrolysis activity [GO:0016887]; transferase activity [GO:0016740]		
+I7JUD6	I7JUD6	unreviewed	I7JUD6_9LACO	Large ribosomal subunit protein uL16	rplP BN55_06680	Lactobacillus hominis DSM 23910 = CRBIP 24.179	145	GO:0000049; GO:0003735; GO:0006412; GO:0019843; GO:0022625	rRNA binding [GO:0019843]; structural constituent of ribosome [GO:0003735]; tRNA binding [GO:0000049]	cytosolic large ribosomal subunit [GO:0022625]; rRNA binding [GO:0019843]; structural constituent of ribosome [GO:0003735]; tRNA binding [GO:0000049]; translation [GO:0006412]	translation [GO:0006412]	cytosolic large ribosomal subunit [GO:0022625]
+A0A376MQF6	A0A376MQF6	unreviewed	A0A376MQF6_ECOLX	Chaperone protein DnaK (Heat shock protein 70) (Heat shock 70 kDaprotein) (HSP70)	dnaK_2 NCTC11112_03189	Escherichia coli	152	GO:0005524; GO:0140662	ATP binding [GO:0005524]; ATP-dependent protein folding chaperone [GO:0140662]	ATP binding [GO:0005524]; ATP-dependent protein folding chaperone [GO:0140662]		
+A0A1B3PVY1	A0A1B3PVY1		A0A1B3PVY1_LACJH	deleted								
+A0A3N7BRD1	A0A3N7BRD1	unreviewed	A0A3N7BRD1_9PSED	Site-specific integrase	DBR46_14310	Pseudomonas sp. KBW05	680	GO:0003677; GO:0006310; GO:0015074	DNA binding [GO:0003677]	DNA binding [GO:0003677]; DNA integration [GO:0015074]; DNA recombination [GO:0006310]	DNA integration [GO:0015074]; DNA recombination [GO:0006310]	
+A0A2T0HPX7	A0A2T0HPX7	unreviewed	A0A2T0HPX7_PSEFL	Ammonium transporter	C7A10_27800	Pseudomonas fluorescens	445	GO:0005886; GO:0008519	ammonium channel activity [GO:0008519]	plasma membrane [GO:0005886]; ammonium channel activity [GO:0008519]		plasma membrane [GO:0005886]
+A0A2T4D208	A0A2T4D208		A0A2T4D208_9CYAN	deleted								
+A0A2R9SKZ2	A0A2R9SKZ2		A0A2R9SKZ2_MYCTX	deleted								
+A0A550J2P1	A0A550J2P1		A0A550J2P1_9PROT	deleted								
+A0A3N7BDH6	A0A3N7BDH6	unreviewed	A0A3N7BDH6_9PSED	Aldehyde dehydrogenase	DBR46_24300	Pseudomonas sp. KBW05	379					
+G4SZ62	G4SZ62	unreviewed	G4SZ62_META2	Particulate methane monooxygenase, C subunit (EC 1.14.13.25)	pmoC MEALZ_0514	Methylotuvimicrobium alcaliphilum (strain DSM 19304 / NCIMB 14124 / VKM B-2133 / 20Z) (Methylomicrobium alcaliphilum)	250	GO:0015049; GO:0016020	methane monooxygenase [NAD(P)H] activity [GO:0015049]	membrane [GO:0016020]; methane monooxygenase [NAD(P)H] activity [GO:0015049]		membrane [GO:0016020]
+W4U8M3	W4U8M3		W4U8M3_CUTAC	deleted								
+A0A1F1N3Q1	A0A1F1N3Q1		A0A1F1N3Q1_9STRE	deleted								
+A0A3N9PQY8	A0A3N9PQY8		A0A3N9PQY8_9RHOB	deleted								
+Q045V5	Q045V5	reviewed	RL7_LACGA	Large ribosomal subunit protein bL12 (50S ribosomal protein L7/L12)	rplL LGAS_0362	Lactobacillus gasseri (strain ATCC 33323 / DSM 20243 / BCRC 14619 / CIP 102991 / JCM 1131 / KCTC 3163 / NCIMB 11718 / NCTC 13722 / AM63)	120	GO:0003729; GO:0003735; GO:0006412; GO:0022625	mRNA binding [GO:0003729]; structural constituent of ribosome [GO:0003735]	cytosolic large ribosomal subunit [GO:0022625]; mRNA binding [GO:0003729]; structural constituent of ribosome [GO:0003735]; translation [GO:0006412]	translation [GO:0006412]	cytosolic large ribosomal subunit [GO:0022625]
+A0A367N0J6	A0A367N0J6		A0A367N0J6_9PSED	deleted								
+A0A109LBM3	A0A109LBM3	unreviewed	A0A109LBM3_PSEFL	Acetylornithine aminotransferase (ACOAT) (EC 2.6.1.11)	aruC argD PFLmoz3_05655	Pseudomonas fluorescens	392	GO:0003992; GO:0005737; GO:0006526; GO:0030170; GO:0042802	identical protein binding [GO:0042802]; N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase activity [GO:0003992]; pyridoxal phosphate binding [GO:0030170]	cytoplasm [GO:0005737]; identical protein binding [GO:0042802]; N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase activity [GO:0003992]; pyridoxal phosphate binding [GO:0030170]; L-arginine biosynthetic process [GO:0006526]	L-arginine biosynthetic process [GO:0006526]	cytoplasm [GO:0005737]
+A0A0R3AMX0	A0A0R3AMX0	unreviewed	A0A0R3AMX0_9PSED	Pilus assembly protein PapC	TX23_06100	Pseudomonas paralactis	840					
+A0A0M4QFX4	A0A0M4QFX4		A0A0M4QFX4_9PSED	deleted								
+P62216	P62216	reviewed	RECA_LACJO	Protein RecA (Recombinase A)	recA LJ_0839	Lactobacillus johnsonii (strain CNCM I-12250 / La1 / NCC 533)	360	GO:0003684; GO:0003697; GO:0005524; GO:0005829; GO:0006281; GO:0006310; GO:0009432; GO:0016887; GO:0140664	ATP binding [GO:0005524]; ATP hydrolysis activity [GO:0016887]; ATP-dependent DNA damage sensor activity [GO:0140664]; damaged DNA binding [GO:0003684]; single-stranded DNA binding [GO:0003697]	cytosol [GO:0005829]; ATP binding [GO:0005524]; ATP hydrolysis activity [GO:0016887]; ATP-dependent DNA damage sensor activity [GO:0140664]; damaged DNA binding [GO:0003684]; single-stranded DNA binding [GO:0003697]; DNA recombination [GO:0006310]; DNA repair [GO:0006281]; SOS response [GO:0009432]	DNA recombination [GO:0006310]; DNA repair [GO:0006281]; SOS response [GO:0009432]	cytosol [GO:0005829]
+A0A0M5LZ70	A0A0M5LZ70		A0A0M5LZ70_9PSED	deleted								
+E6D4I9	E6D4I9		E6D4I9_CUTAC	deleted								
+A0A3M5D938	A0A3M5D938		A0A3M5D938_PSEA0	deleted								
+A0A376S258	A0A376S258		A0A376S258_ECOLX	deleted								
+A0A376KL33	A0A376KL33	unreviewed	A0A376KL33_ECOLX	Glycine--tRNA ligase alpha subunit (EC 6.1.1.14) (Glycyl-tRNA synthetase alpha subunit)	glyQ_1 NCTC10418_00313	Escherichia coli	156	GO:0004820; GO:0005524; GO:0005829; GO:0006426	ATP binding [GO:0005524]; glycine-tRNA ligase activity [GO:0004820]	cytosol [GO:0005829]; ATP binding [GO:0005524]; glycine-tRNA ligase activity [GO:0004820]; glycyl-tRNA aminoacylation [GO:0006426]	glycyl-tRNA aminoacylation [GO:0006426]	cytosol [GO:0005829]
+A0A143GHM8	A0A143GHM8		A0A143GHM8_9PSED	deleted								
+A0A367GKR9	A0A367GKR9	unreviewed	A0A367GKR9_9SPHI	Endonuclease	DJ568_17065	Mucilaginibacter hurinus	93					
+A0A2R3HCM2	A0A2R3HCM2		A0A2R3HCM2_9PSED	deleted								
+A0A1B3PSQ0	A0A1B3PSQ0		A0A1B3PSQ0_LACJH	deleted								
+A0A3N2FZG2	A0A3N2FZG2	unreviewed	A0A3N2FZG2_9MICO	Uncharacterized protein	EDF22_1473	Rathayibacter sp. PhB127	345					
+A0A3M5PLP8	A0A3M5PLP8		A0A3M5PLP8_PSEMA	deleted								
+C5EWZ0	C5EWZ0		C5EWZ0_9FIRM	deleted								
+A0A4Q0HTN3	A0A4Q0HTN3	unreviewed	A0A4Q0HTN3_PSEAZ	Uncharacterized protein	B4O85_14620	Pseudomonas azotoformans	102					
+A0A3N9QKE0	A0A3N9QKE0		A0A3N9QKE0_9RHOB	deleted								
+A0A291ID69	A0A291ID69	unreviewed	A0A291ID69_BACAM	Surfactin synthetase	srfAB	Bacillus amyloliquefaciens (Bacillus velezensis)	204	GO:0003824	catalytic activity [GO:0003824]	catalytic activity [GO:0003824]		
+A0A1Z1N9P7	A0A1Z1N9P7		A0A1Z1N9P7_LACJH	deleted								
+A0A4T1YHJ4	A0A4T1YHJ4		A0A4T1YHJ4_LEGPN	deleted								
+A0A3D4SNB8	A0A3D4SNB8		A0A3D4SNB8_PSESP	deleted								
+F3WPU4	F3WPU4		F3WPU4_9ENTR	deleted								
+W4UDS1	W4UDS1		W4UDS1_CUTAC	deleted								
+A0A263SHB2	A0A263SHB2		A0A263SHB2_PSEFL	deleted								
+A0A2R9VYF0	A0A2R9VYF0		A0A2R9VYF0_ECOLX	deleted								
+A0A256MK12	A0A256MK12		A0A256MK12_LACJH	deleted								
+A0A2R7R8Y5	A0A2R7R8Y5		A0A2R7R8Y5_9PSED	deleted								
+A0A244CH30	A0A244CH30		A0A244CH30_LACJH	deleted								
+A0A0U5FCZ2	A0A0U5FCZ2	unreviewed	A0A0U5FCZ2_LIMRT	Ribulokinase (EC 2.7.1.16)	LRLP16767_LR202_01870	Limosilactobacillus reuteri (Lactobacillus reuteri)	392	GO:0008741	ribulokinase activity [GO:0008741]	ribulokinase activity [GO:0008741]		
+A0A1H1XMA9	A0A1H1XMA9		A0A1H1XMA9_9PSED	deleted								
+A0A256M9T8	A0A256M9T8		A0A256M9T8_LACJH	deleted								
+A0A554TF53	A0A554TF53		A0A554TF53_9PSED	deleted								
+A0A3M4G3H7	A0A3M4G3H7		A0A3M4G3H7_PSEFL	deleted								
+A0A249NKT4	A0A249NKT4		A0A249NKT4_LACGS	deleted								
+A0A0R2ZUR0	A0A0R2ZUR0	unreviewed	A0A0R2ZUR0_9PSED	LapA adhesin domain-containing protein	TX23_26675	Pseudomonas paralactis	193					
+C7VDQ1	C7VDQ1		C7VDQ1_ENTFL	deleted								
+M9T017	M9T017	unreviewed	M9T017_BACPU	Surfactin 2		Bacillus pumilus (Bacillus mesentericus)	422	GO:0003824	catalytic activity [GO:0003824]	catalytic activity [GO:0003824]		
+A0A4T9WA68	A0A4T9WA68		A0A4T9WA68_9FIRM	deleted								
+A0A4P7ALV2	A0A4P7ALV2		A0A4P7ALV2_9PSED	deleted								
+A0A0Q0IJA0	A0A0Q0IJA0	unreviewed	A0A0Q0IJA0_PSEAP	Sporadically distributed protein, TIGR04141 family	ALQ37_00610	Pseudomonas syringae pv. aptata	532					
+A0A1V2SAW2	A0A1V2SAW2		A0A1V2SAW2_9BACI	deleted								
+A0A3R8RWM0	A0A3R8RWM0		A0A3R8RWM0_9ACTO	deleted								
+A0A550JQF6	A0A550JQF6		A0A550JQF6_9PROT	deleted								
+A0A3G8ADW4	A0A3G8ADW4		A0A3G8ADW4_9PSED	deleted								
+A0A4R6VUA3	A0A4R6VUA3		A0A4R6VUA3_9PSED	deleted								
+V5P426	V5P426		V5P426_LACJH	deleted								
+A0A376LF36	A0A376LF36	unreviewed	A0A376LF36_ECOLX	Triosephosphate isomerase (EC 5.3.1.1)	tpiA_2 NCTC7928_03526	Escherichia coli	96	GO:0004807; GO:0005829; GO:0006094; GO:0006096; GO:0019563; GO:0046166	triose-phosphate isomerase activity [GO:0004807]	cytosol [GO:0005829]; triose-phosphate isomerase activity [GO:0004807]; gluconeogenesis [GO:0006094]; glyceraldehyde-3-phosphate biosynthetic process [GO:0046166]; glycerol catabolic process [GO:0019563]; glycolytic process [GO:0006096]	gluconeogenesis [GO:0006094]; glyceraldehyde-3-phosphate biosynthetic process [GO:0046166]; glycerol catabolic process [GO:0019563]; glycolytic process [GO:0006096]	cytosol [GO:0005829]
+A5VLK1	A5VLK1	reviewed	RS19_LIMRD	Small ribosomal subunit protein uS19 (30S ribosomal protein S19)	rpsS Lreu_1479	Limosilactobacillus reuteri (strain DSM 20016) (Lactobacillus reuteri)	92	GO:0000028; GO:0003735; GO:0005737; GO:0006412; GO:0015935; GO:0019843	rRNA binding [GO:0019843]; structural constituent of ribosome [GO:0003735]	cytoplasm [GO:0005737]; small ribosomal subunit [GO:0015935]; rRNA binding [GO:0019843]; structural constituent of ribosome [GO:0003735]; ribosomal small subunit assembly [GO:0000028]; translation [GO:0006412]	ribosomal small subunit assembly [GO:0000028]; translation [GO:0006412]	cytoplasm [GO:0005737]; small ribosomal subunit [GO:0015935]
+A0A4U9LLK5	A0A4U9LLK5		A0A4U9LLK5_ECOLX	deleted								
+A0A4Q0HVB4	A0A4Q0HVB4	unreviewed	A0A4Q0HVB4_PSEAZ	DUF4760 domain-containing protein	B4O85_06885	Pseudomonas azotoformans	270	GO:0016020		membrane [GO:0016020]		membrane [GO:0016020]
+Q74L90	Q74L90	reviewed	EFG_LACJO	Elongation factor G (EF-G)	fusA LJ_0337	Lactobacillus johnsonii (strain CNCM I-12250 / La1 / NCC 533)	698	GO:0003746; GO:0003924; GO:0005525; GO:0005737; GO:0032790	GTP binding [GO:0005525]; GTPase activity [GO:0003924]; translation elongation factor activity [GO:0003746]	cytoplasm [GO:0005737]; GTP binding [GO:0005525]; GTPase activity [GO:0003924]; translation elongation factor activity [GO:0003746]; ribosome disassembly [GO:0032790]	ribosome disassembly [GO:0032790]	cytoplasm [GO:0005737]
+A0A2P8LM33	A0A2P8LM33	unreviewed	A0A2P8LM33_9PSED	NAD(P) transhydrogenase subunit beta (EC 7.1.1.1) (Nicotinamide nucleotide transhydrogenase subunit beta)	C7U57_03605	Pseudomonas sp. R9.37	478	GO:0005886; GO:0008750; GO:0050661	NADP binding [GO:0050661]; proton-translocating NAD(P)+ transhydrogenase activity [GO:0008750]	plasma membrane [GO:0005886]; NADP binding [GO:0050661]; proton-translocating NAD(P)+ transhydrogenase activity [GO:0008750]		plasma membrane [GO:0005886]
+E2PHW4	E2PHW4		E2PHW4_NEIPO	deleted								
+A0A1V3Y2M1	A0A1V3Y2M1	unreviewed	A0A1V3Y2M1_LACGS	Glyceraldehyde-3-phosphate dehydrogenase	gap gapA CCE30_07650 CYJ86_04340 F8244_01270 J3E67_001298 LJCM1025_07900	Lactobacillus gasseri	338	GO:0006006; GO:0016620; GO:0050661; GO:0051287	NAD binding [GO:0051287]; NADP binding [GO:0050661]; oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor [GO:0016620]	NAD binding [GO:0051287]; NADP binding [GO:0050661]; oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor [GO:0016620]; glucose metabolic process [GO:0006006]	glucose metabolic process [GO:0006006]	
+A0A267MAP3	A0A267MAP3	unreviewed	A0A267MAP3_LACJH	Triosephosphate isomerase (TIM) (TPI) (EC 5.3.1.1) (Triose-phosphate isomerase)	tpiA A3Q24_03290	Lactobacillus johnsonii	251	GO:0004807; GO:0005829; GO:0006094; GO:0006096; GO:0019563; GO:0046166	triose-phosphate isomerase activity [GO:0004807]	cytosol [GO:0005829]; triose-phosphate isomerase activity [GO:0004807]; gluconeogenesis [GO:0006094]; glyceraldehyde-3-phosphate biosynthetic process [GO:0046166]; glycerol catabolic process [GO:0019563]; glycolytic process [GO:0006096]	gluconeogenesis [GO:0006094]; glyceraldehyde-3-phosphate biosynthetic process [GO:0046166]; glycerol catabolic process [GO:0019563]; glycolytic process [GO:0006096]	cytosol [GO:0005829]
+A0A380ECQ9	A0A380ECQ9	unreviewed	A0A380ECQ9_STAAU	Pyruvate formate-lyase activating enzyme (EC 1.97.1.4)	pflA_2 NCTC10702_00418	Staphylococcus aureus	106	GO:0016829; GO:0043365; GO:0046872; GO:0051539	4 iron, 4 sulfur cluster binding [GO:0051539]; [formate-C-acetyltransferase]-activating enzyme activity [GO:0043365]; lyase activity [GO:0016829]; metal ion binding [GO:0046872]	4 iron, 4 sulfur cluster binding [GO:0051539]; [formate-C-acetyltransferase]-activating enzyme activity [GO:0043365]; lyase activity [GO:0016829]; metal ion binding [GO:0046872]		
+A0A2S6WF01	A0A2S6WF01	unreviewed	A0A2S6WF01_9ACTN	Uncharacterized protein	BZZ08_07391	Streptomyces sp. MH60	282					
+I4K6B4	I4K6B4	unreviewed	I4K6B4_9PSED	tRNA-(Ms[2]io[6]A)-hydroxylase (EC 1.-.-.-)	miaE PflSS101_2329	Pseudomonas lactis	200	GO:0006400; GO:0045301	tRNA-(2-methylthio-N-6-(cis-hydroxy)isopentenyl adenosine)-hydroxylase activity [GO:0045301]	tRNA-(2-methylthio-N-6-(cis-hydroxy)isopentenyl adenosine)-hydroxylase activity [GO:0045301]; tRNA modification [GO:0006400]	tRNA modification [GO:0006400]	
+A0A3M5XJ37	A0A3M5XJ37		A0A3M5XJ37_9PSED	deleted								
+A0A143GGV7	A0A143GGV7		A0A143GGV7_9PSED	deleted								
+A0A251WN86	A0A251WN86		A0A251WN86_9FIRM	deleted								
+A0A2T1BQ63	A0A2T1BQ63		A0A2T1BQ63_CORDP	deleted								
+A0A251XBP0	A0A251XBP0	unreviewed	A0A251XBP0_9GAMM	Endonuclease	TPSD3_01370	Thioflexithrix psekupsensis	295					
+A0A5B0D099	A0A5B0D099	unreviewed	A0A5B0D099_9MICO	Uncharacterized protein	FQ142_17325	Microbacterium sp. ANT_H45B	66					
+A0A0F0CDV5	A0A0F0CDV5	unreviewed	A0A0F0CDV5_9CLOT	Uncharacterized protein	CLFS41_16270	Clostridium sp. FS41	141					
+A0A368KZ13	A0A368KZ13	unreviewed	A0A368KZ13_9BACT	DUF1725 domain-containing protein	DTL42_00515	Bremerella cremea	200					
+A0A1V2SEZ9	A0A1V2SEZ9		A0A1V2SEZ9_9BACI	deleted								
+A0A2T0HPZ2	A0A2T0HPZ2	unreviewed	A0A2T0HPZ2_PSEFL	Helix-turn-helix domain-containing protein	C7A10_27775	Pseudomonas fluorescens	201	GO:0003677; GO:0003700; GO:0005829	DNA binding [GO:0003677]; DNA-binding transcription factor activity [GO:0003700]	cytosol [GO:0005829]; DNA binding [GO:0003677]; DNA-binding transcription factor activity [GO:0003700]		cytosol [GO:0005829]
+A0A2N7YDK2	A0A2N7YDK2	unreviewed	A0A2N7YDK2_9PSED	Reverse transcriptase domain-containing protein	C1Y27_31460	Pseudomonas sp. GW704-F2	88					
+A0A4Q2GP29	A0A4Q2GP29		A0A4Q2GP29_KLEPN	deleted								
+A0A1R1BS14	A0A1R1BS14	unreviewed	A0A1R1BS14_9BACL	Reverse transcriptase domain-containing protein	BK133_30830	Paenibacillus sp. FSL H8-0548	102					
+A0A137PN31	A0A137PN31	unreviewed	A0A137PN31_LACJH	Uncharacterized protein	A3P64_08795 A3Q24_09325 AYJ53_04065 BBP16_08225 CBF50_06990 D7321_01910 FEE39_01510 GJU95_06260 GTO82_01995 K8V69_04365 NSA17_06310	Lactobacillus johnsonii	72					
+A0A2M9XJE0	A0A2M9XJE0		A0A2M9XJE0_9LEPT	deleted								
+A0A2N2U7S4	A0A2N2U7S4		A0A2N2U7S4_9PROT	deleted								
+A0A4V2JQC3	A0A4V2JQC3	unreviewed	A0A4V2JQC3_9BACT	Uncharacterized protein	DU473_08235	Campylobacter novaezeelandiae	99					
+S7VIJ0	S7VIJ0	unreviewed	S7VIJ0_9BACT	Ribosome hibernation promoting factor (HPF)	hpf ADICYQ_1633	Cyclobacterium qasimii M12-11B	185	GO:0022627; GO:0043024; GO:0045900	ribosomal small subunit binding [GO:0043024]	cytosolic small ribosomal subunit [GO:0022627]; ribosomal small subunit binding [GO:0043024]; negative regulation of translational elongation [GO:0045900]	negative regulation of translational elongation [GO:0045900]	cytosolic small ribosomal subunit [GO:0022627]
+A0A368MLB6	A0A368MLB6		A0A368MLB6_ACIBA	deleted								
+A0A2A8G8F5	A0A2A8G8F5		A0A2A8G8F5_9BACI	deleted								
+A0A2I2KZ24	A0A2I2KZ24	unreviewed	A0A2I2KZ24_9ACTN	Uncharacterized protein	FRACA_5630001	Frankia canadensis	71					
+A0A0E9DG03	A0A0E9DG03		A0A0E9DG03_CHLTH	deleted								
+W4TTY0	W4TTY0		W4TTY0_CUTAC	deleted								
+A0A235B1D2	A0A235B1D2	unreviewed	A0A235B1D2_9BACL	Uncharacterized protein	CHM34_18370	Paludifilum halophilum	60					
+A0A2A2I6F0	A0A2A2I6F0	unreviewed	A0A2A2I6F0_9BACI	Uncharacterized protein	CIL05_21425	Virgibacillus profundi	85					
+A0A367GKV0	A0A367GKV0	unreviewed	A0A367GKV0_9SPHI	Uncharacterized protein	DJ568_17050	Mucilaginibacter hurinus	72					
+A0A0U1N3J4	A0A0U1N3J4		A0A0U1N3J4_CHLTH	deleted								
+A0A317T9J9	A0A317T9J9		A0A317T9J9_CLOPF	deleted								
+A0A2N6IBK7	A0A2N6IBK7	unreviewed	A0A2N6IBK7_9BURK	Endonuclease	CSZ94_27320	Janthinobacterium sp. ROICE36	240	GO:0004519	endonuclease activity [GO:0004519]	endonuclease activity [GO:0004519]		
+A0A0U1N3C7	A0A0U1N3C7		A0A0U1N3C7_CHLTH	deleted								
+A0A2G5MX92	A0A2G5MX92		A0A2G5MX92_9PSED	deleted								
+A0A3N9PIP5	A0A3N9PIP5		A0A3N9PIP5_9RHOB	deleted								
+A0A550J2B9	A0A550J2B9		A0A550J2B9_9PROT	deleted								
+A0A137PKG1	A0A137PKG1	unreviewed	A0A137PKG1_LACJH	Phosphoglycerate kinase (EC 2.7.2.3)	pgk AYJ53_05700 CBF50_05795 D7321_07205 FEE39_05990 GJU95_04575 GTO82_06535 K8V69_04940 NSA17_00105	Lactobacillus johnsonii	403	GO:0004618; GO:0005524; GO:0005829; GO:0006094; GO:0006096; GO:0043531	ADP binding [GO:0043531]; ATP binding [GO:0005524]; phosphoglycerate kinase activity [GO:0004618]	cytosol [GO:0005829]; ADP binding [GO:0043531]; ATP binding [GO:0005524]; phosphoglycerate kinase activity [GO:0004618]; gluconeogenesis [GO:0006094]; glycolytic process [GO:0006096]	gluconeogenesis [GO:0006094]; glycolytic process [GO:0006096]	cytosol [GO:0005829]
+A0A0E2J979	A0A0E2J979		A0A0E2J979_CHLPS	deleted								
+A0A0M2KL89	A0A0M2KL89	unreviewed	A0A0M2KL89_9GAMM	Uncharacterized protein	SY86_00705	Erwinia tracheiphila	114					
+A0A2S3SEF4	A0A2S3SEF4		A0A2S3SEF4_VIBVL	deleted								
