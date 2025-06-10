@@ -1,0 +1,15 @@
+12_pipelines_genes.xlsx  --------> Genes and corresponding pipelines in which they are present
+all_12.xlsx  		 --------> Genes present in 12 pipelines which shows distitinct classes in LDA
+genes/  		 --------> Genes under each pipeline considered                      
+genes_count_new.txt      --------> SEG that are present in all pipelines with number of pipelines in which they are found      
+genes_name_pipeline.xlsx --------> SEG that are present in all pipelines with name of pipelines in which they are found 
+id_count_new.txt  	 --------> GeneID of SEG that are present in all pipelines with number of pipelines in which they are found 
+lda/			 --------> LDA plot of 16 pipelines  
+seg_12_pipelines.xlsx    --------> SEG that are present in 12 pipelines 
+16_pipelenes_genes.txt   --------> Genes present in all 16 pipelines which shows distitinct classes in LDA
+auc/         		 --------> AUC ROC curve plot for 16 pipelines
+genes_all_pipeline_name.xlsx ----> Genes that are present in all pipelines with name of pipelines in which they are found
+genes_lda_pipeline.xlsx  --------> Genes that are present in 12 pipelines with name of pipelines in which they are found (12 pipelines which shows distitinct classes in LDA)
+genes_pipeline.xlsx      --------> GeneID of SEG that are present in all pipelines with name of pipelines in which they are found                
+pca/
+
