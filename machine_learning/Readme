@@ -11,5 +11,5 @@ auc/         		 --------> AUC ROC curve plot for 16 pipelines
 genes_all_pipeline_name.xlsx ----> Genes that are present in all pipelines with name of pipelines in which they are found
 genes_lda_pipeline.xlsx  --------> Genes that are present in 12 pipelines with name of pipelines in which they are found (12 pipelines which shows distitinct classes in LDA)
 genes_pipeline.xlsx      --------> GeneID of SEG that are present in all pipelines with name of pipelines in which they are found                
-pca/
+
 
